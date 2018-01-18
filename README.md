@@ -1,7 +1,7 @@
 # rworkshop
 Slides, script e conjunto de dados para o workshop Introdução ao R para linguistas (UFRN/2017)
 
-Os arquivos compartilhados foram utilizados no workshop "Introdução ao R para linguistas", realizado na UFRN em novembro de 2017. O objetivo do curso foi introduzir o uso do RStudio para o tratamento de dados de pesquisas linguísticas através do uso do pacote ggplot2. Segue uma descrição de cada arquivo:
+O objetivo do curso foi introduzir o uso do RStudio para o tratamento de dados de pesquisas linguísticas através do uso do pacote ggplot2. Segue uma descrição de cada arquivo:
 
 # slides.html
 slides para o tutorial. Note que o uso das setas direita/esquerda no teclado movimentam a apresentação mostrando as seções principais da apresentação. Para ver os slides dentro de cada seção, use as setas indicando para cima/para baixo. No canto inferior esquerdo há um cursor indicando esses movimentos. 
